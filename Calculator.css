@@ -1,0 +1,25 @@
+.formstyle{
+   width: 300px;
+   height: 400px;
+   margin: auto;
+  /* padding: 1rem; */
+}
+form{
+    border: solid; 
+   text-align: center;
+   padding: 2rem;
+   background-color: aqua;
+   border-radius: 0.5rem;
+}
+input{
+    padding: 1rem;
+   border-radius: 0.5rem;
+   background-color: burlywood;
+}
+#text1{
+    width: 95px;
+    padding-left: 3rem;
+}
+#clear{
+    padding-left: 2rem;
+}
